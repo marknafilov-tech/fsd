@@ -1,0 +1,11 @@
+{
+  "name": "blockworld-studio",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-contained browser 3D sandbox inspired by Roblox Studio.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
